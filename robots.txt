@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+
+Sitemap: https://squidgames-character.netlify.app/sitemap.xml
